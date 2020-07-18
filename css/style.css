@@ -1441,6 +1441,21 @@ p {
           box-shadow: 0 5px 20px 0 rgba(19, 168, 116, 0.2);
 }
 
+.services-item .services-link-1 {
+  font-size: 14px;
+  color: #fff !important;
+  padding: 10px 20px;
+  width: 290px;
+  align-content: center;
+  border-radius: 5px;
+  display: inline-block;
+  background: #13a874;
+  -webkit-transition: all 0.25s linear;
+  transition: all 0.25s linear;
+  -webkit-box-shadow: 0 5px 20px 0 rgba(19, 168, 116, 0.2);
+          box-shadow: 0 5px 20px 0 rgba(19, 168, 116, 0.2);
+}
+
 .services-item .services-link:hover {
   color: #fff !important;
   background: #109164;
